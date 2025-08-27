@@ -1,4 +1,4 @@
 
 <template>
-  <h1>welcome vue</h1>
+  <h1>hello world</h1>
 </template>
