@@ -1,8 +1,9 @@
 import React from "react"
+import Products from "./ProductsDetails/Products"
 function App() {
   return (
    <>
-   <h1>basic app</h1>
+   <Products />
    </>
   )
 }
